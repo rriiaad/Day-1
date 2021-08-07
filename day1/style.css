@@ -9,6 +9,7 @@ body {
   border-radius: 15px;
   position: relative;
   transition: 0.4s;
+  cursor: pointer;
 }
 
 .ball {
